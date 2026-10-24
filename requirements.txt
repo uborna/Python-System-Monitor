@@ -1,5 +1,15 @@
+cairocffi==1.7.1
+CairoSVG==2.9.1
+cffi==2.1.1
+cssselect2==0.10.1
+defusedxml==0.7.1
 markdown-it-py==4.2.0
 mdurl==0.1.2
+pillow==13.0.0
 psutil==7.2.2
+pycparser==3.12
 Pygments==2.21.0
 rich==15.0.0
+tinycss2==1.5.1
+tk==0.1.0
+webencodings==0.6.1
