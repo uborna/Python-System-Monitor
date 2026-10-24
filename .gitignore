@@ -1,3 +1,5 @@
 .sysmonitor/
 t.py
 r.py
+.venv/
+__pycache__
